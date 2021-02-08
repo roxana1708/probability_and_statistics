@@ -1,1 +1,3 @@
-# probability_and_statistics
+# Probability And Statistics
+-> Project
+-> Continuous Random Variables
